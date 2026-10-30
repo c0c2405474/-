@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Runtime-generated classifier outputs
+classifier_output/dark_test_150_comparison.csv
+
